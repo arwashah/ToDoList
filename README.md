@@ -15,4 +15,4 @@ A simple, interactive to-do list app built with React. Add tasks, reorder them, 
 - CSS
 
 
-<img src="public/demo.png" alt="To-Do List Screenshot" width="600">
+<img src="public/demo.png" alt="To-Do List Screenshot" width="800">
